@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @smythej668
-- 👀 I’m interested in software security
+- 👀 I’m interested in Software Security
 - 🌱 I’m currently learning LLM
 - 💞️ I’m looking to collaborate on fuzzing projects
 - 📫 How to reach me smythej668ATGMAILDOTCOM
