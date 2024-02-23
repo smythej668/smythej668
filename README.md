@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smythej668
 - 👀 I’m interested in Software Security
-- 🌱 I’m currently learning LLM
+- 🌱 I’m currently learning about ChatGPT
 - 💞️ I’m looking to collaborate on fuzzing projects
 - 📫 How to reach me smythej668ATGMAILDOTCOM
 
